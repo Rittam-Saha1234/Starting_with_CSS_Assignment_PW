@@ -1,0 +1,26 @@
+.first-paragraph{
+    border: 1px solid rgb(86, 161, 100);
+    margin-top: 10px;
+    background-color: rgba(198, 176, 75, 0.868);
+    color: rgb(99, 23, 85);
+    font-size: larger;
+    padding: 10px;
+}
+
+.second-paragraph{
+    border: 1px solid rgb(160, 201, 227);
+    margin-top: 15px;
+    background-color: rgba(117, 107, 206, 0.288);
+    color: rgb(9, 33, 27);
+    font-size: larger;
+    padding: 12px;
+}
+
+.third-paragraph{
+    border: 3px solid rgb(94, 5, 5);
+    margin-top: 15px;
+    background-color: rgba(83, 97, 39, 0.288);
+    color: rgb(0, 53, 40);
+    font-size: larger;
+    padding: 20px;
+}

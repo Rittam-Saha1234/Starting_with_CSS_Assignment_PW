@@ -1,0 +1,9 @@
+/* This is External CSS */
+.external-css{
+    border: 1px solid rgb(86, 161, 100);
+    margin-top: 10px;
+    background-color: rgba(198, 176, 75, 0.868);
+    color: rgb(99, 23, 85);
+    font-size: larger;
+    padding: 10px;
+}
